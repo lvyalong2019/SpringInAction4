@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+         http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>springinaction4th</artifactId>
         <groupId>com.lyl.springinaction4th</groupId>
@@ -10,13 +11,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lyl.springinaction4th</groupId>
-    <artifactId>Chapter_02</artifactId>
+    <artifactId>Chapter_03</artifactId>
     <packaging>pom</packaging>
+
     <modules>
-        <module>stereo-autoconfig</module>
-        <module>stereo-javaconfig</module>
-        <module>stereo-xmlconfig</module>
-        <module>stereo-mixedconfig</module>
+        <module>profiles</module>
+        <module>conditional</module>
+        <module>scopedbeans</module>
+        <module>externals</module>
     </modules>
 
     <dependencies>
@@ -82,6 +84,15 @@
         <dependency>
             <groupId>com.github.stefanbirkner</groupId>
             <artifactId>system-rules</artifactId>
+        </dependency>
+
+        <!--H2数据库-->
+        <!-- https://mvnrepository.com/artifact/com.h2database/h2 -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
         </dependency>
 
     </dependencies>
