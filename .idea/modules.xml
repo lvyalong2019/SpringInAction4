@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter_04/AspectJconfig/AspectJconfig.iml" filepath="$PROJECT_DIR$/Chapter_04/AspectJconfig/AspectJconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_01/Chapter_01.iml" filepath="$PROJECT_DIR$/Chapter_01/Chapter_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/Chapter_02.iml" filepath="$PROJECT_DIR$/Chapter_02/Chapter_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/Chapter_03.iml" filepath="$PROJECT_DIR$/Chapter_03/Chapter_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_04/Chapter_04.iml" filepath="$PROJECT_DIR$/Chapter_04/Chapter_04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/conditional/conditional.iml" filepath="$PROJECT_DIR$/Chapter_03/conditional/conditional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/externals/externals.iml" filepath="$PROJECT_DIR$/Chapter_03/externals/externals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_04/javaconfig/javaconfig.iml" filepath="$PROJECT_DIR$/Chapter_04/javaconfig/javaconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-mixedconfig/javarefxml/javarefxml.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig/javarefxml/javarefxml.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_01/knights/knights.iml" filepath="$PROJECT_DIR$/Chapter_01/knights/knights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_04/newFunctionByAnnotation/newFunctionByAnnotation.iml" filepath="$PROJECT_DIR$/Chapter_04/newFunctionByAnnotation/newFunctionByAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_04/parametersOfAdvice/parametersOfAdvice.iml" filepath="$PROJECT_DIR$/Chapter_04/parametersOfAdvice/parametersOfAdvice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/profiles/profiles.iml" filepath="$PROJECT_DIR$/Chapter_03/profiles/profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/scopedbeans/scopedbeans.iml" filepath="$PROJECT_DIR$/Chapter_03/scopedbeans/scopedbeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/springinaction4th.iml" filepath="$PROJECT_DIR$/springinaction4th.iml" />
