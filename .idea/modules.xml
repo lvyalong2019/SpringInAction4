@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/Chapter_02.iml" filepath="$PROJECT_DIR$/Chapter_02/Chapter_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/Chapter_03.iml" filepath="$PROJECT_DIR$/Chapter_03/Chapter_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_04/Chapter_04.iml" filepath="$PROJECT_DIR$/Chapter_04/Chapter_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringInAction4.iml" filepath="$PROJECT_DIR$/SpringInAction4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/conditional/conditional.iml" filepath="$PROJECT_DIR$/Chapter_03/conditional/conditional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/externals/externals.iml" filepath="$PROJECT_DIR$/Chapter_03/externals/externals.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_04/javaconfig/javaconfig.iml" filepath="$PROJECT_DIR$/Chapter_04/javaconfig/javaconfig.iml" />
@@ -16,7 +17,6 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter_04/parametersOfAdvice/parametersOfAdvice.iml" filepath="$PROJECT_DIR$/Chapter_04/parametersOfAdvice/parametersOfAdvice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/profiles/profiles.iml" filepath="$PROJECT_DIR$/Chapter_03/profiles/profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_03/scopedbeans/scopedbeans.iml" filepath="$PROJECT_DIR$/Chapter_03/scopedbeans/scopedbeans.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springinaction4th.iml" filepath="$PROJECT_DIR$/springinaction4th.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-autoconfig/stereo-autoconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-autoconfig/stereo-autoconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-javaconfig/stereo-javaconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-javaconfig/stereo-javaconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter_02/stereo-mixedconfig/stereo-mixedconfig.iml" filepath="$PROJECT_DIR$/Chapter_02/stereo-mixedconfig/stereo-mixedconfig.iml" />

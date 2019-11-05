@@ -19,7 +19,7 @@
         <constructor-arg value="#{T(System).out}"/>
     </bean>
 
-    <aop:soundsystem.config>
+    <aop:config>
         <aop:aspect ref="minstrel">
             <aop:pointcut id="embark"
                           expression="execution(* *.embarkOnQuest(..))"/>
@@ -30,7 +30,7 @@
             <aop:after pointcut-ref="embark"
                        method="singAfterQuest"/>
         </aop:aspect>
-    </aop:soundsystem.config>
+    </aop:config>
 
     <!--<aop:soundsystem.config>-->
         <!--<aop:aspect ref="minstrel">-->
